@@ -4,6 +4,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
 public class BaseTest {
+	// Updated on 6/26/2020
 	
 	@BeforeSuite
 	public void setUp() {
